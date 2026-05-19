@@ -40,3 +40,4 @@ npm create vite@latest .
 - ```javascript
     <Link to="/"></Link>
 ```
+- `useNavigate()`
